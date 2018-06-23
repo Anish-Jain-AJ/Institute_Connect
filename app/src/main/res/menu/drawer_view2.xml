@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/view_noti"
+            android:title="View Notification" />
+        <item
+            android:id="@+id/send_fac"
+            android:title="Send Faculty Message" />
+        <item
+            android:id="@+id/stu_prof"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/settings2"
+            android:title="Settings" />
+    </group>
+</menu>

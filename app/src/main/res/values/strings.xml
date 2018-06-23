@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">NuConnect</string>
+    <string name="Student">Student</string>
+    <string name="Faculty">Faculty</string>
+    <string-array name="batch_array">
+        <item>ITA</item>
+        <item>ITB</item>
+        <item>CEA</item>
+        <item>CEB</item>
+        <item>ITA1</item>
+        <item>ITA2</item>
+        <item>ITA3</item>
+        <item>ITA4</item>
+        <item>CEA1</item>
+        <item>CEA2</item>
+        <item>CEA3</item>
+        <item>CEA4</item>
+        <item>ITB1</item>
+        <item>ITB2</item>
+        <item>ITB3</item>
+        <item>ITB4</item>
+        <item>CEB1</item>
+        <item>CEB2</item>
+        <item>CEB3</item>
+        <item>CEB4</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="aj.nuconnect">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".LoginFirst">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".student_first"
+            android:parentActivityName=".LoginFirst">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LoginFirst" />
+        </activity>
+        <activity
+            android:name=".faculty_first"
+            android:parentActivityName=".LoginFirst">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LoginFirst" />
+        </activity>
+        <activity android:name=".fac_sendnot" />
+        <activity android:name=".fac_viewnot" />
+        <activity android:name=".fac_viewstu" />
+        <activity android:name=".fac_sett" />
+        <activity android:name=".stu_sendfacul" />
+        <activity android:name=".stu_viewnoti" />
+        <activity android:name=".stu_myprofi" />
+        <activity android:name=".stu_setti"></activity>
+    </application>
+
+</manifest>
