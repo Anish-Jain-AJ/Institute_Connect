@@ -12,3 +12,11 @@ This application was developed using Android Studio.
 
 It shows a first screen where a person can login and register, whether it be student or faculty and then after logging in, a particular
 activity opens and gives the required features to the person who has logged in.
+
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image1.png)
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image6.png)
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image2.png)
+
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image3.png)
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image4.png)
+![alt text](https://github.com/Anish-Jain-AJ/Institute_Connect/blob/master/Image5.png)
